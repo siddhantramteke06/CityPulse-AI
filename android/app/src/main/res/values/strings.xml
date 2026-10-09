@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CityPulse AI</string>
+    <string name="title_activity_main">CityPulse AI</string>
+    <string name="package_name">com.citypulse.ai</string>
+    <string name="custom_url_scheme">com.citypulse.ai</string>
+</resources>
