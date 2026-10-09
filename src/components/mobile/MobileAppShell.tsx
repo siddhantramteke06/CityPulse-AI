@@ -244,13 +244,15 @@ export const MobileAppShell: React.FC = () => {
         <div className="flex items-center gap-2.5">
           {/* Direct APK Download Button */}
           <a
-            href="/CityPulse-AI.apk"
+            href="https://github.com/siddhantramteke06/CityPulse-AI/raw/main/CityPulse-AI.apk"
+            target="_blank"
+            rel="noopener noreferrer"
             download="CityPulse-AI.apk"
             className="flex items-center gap-1.5 px-3.5 py-1.5 bg-gradient-to-r from-teal-600 to-teal-500 hover:from-teal-500 hover:to-teal-400 text-slate-950 font-black text-xs rounded-xl shadow-lg shadow-teal-500/20 transition active:scale-95"
-            title="Download compiled Android APK (8.2 MB)"
+            title="Download compiled Android APK (28 MB)"
           >
             <Download className="w-4 h-4 text-slate-950" />
-            <span>Download Android APK (8.2 MB)</span>
+            <span>Download Android APK</span>
           </a>
 
           {/* Quick Screen Switcher Dropdown */}

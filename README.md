@@ -7,12 +7,10 @@ CityPulse AI is an urban intelligence and exploration web application focused on
 
 ---
 
-## 🚀 Live Demo & Quick Start
-
-The application is running locally at:
-```
-http://127.0.0.1:5173/
-```
+## 🚀 Live Web App & Android APK
+- 🌐 **Live Web App (Firebase Hosting):** [https://citypulse-ai-pune.web.app](https://citypulse-ai-pune.web.app)
+- 📱 **Download Android APK:** [CityPulse-AI.apk (GitHub Direct Download)](https://github.com/siddhantramteke06/CityPulse-AI/raw/main/CityPulse-AI.apk)
+- 💻 **Local Development:** `http://127.0.0.1:5173/`
 
 ### Installation & Run Commands
 ```bash
